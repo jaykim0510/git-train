@@ -1,0 +1,18 @@
+project:
+  name: congpang
+  description: This is ecommerce project
+  teams:
+    - name: Product
+      description: Project team
+      leader:
+        name: Alice
+        role: backend engineer
+        responsibilities:
+          - API development
+          - Database management
+      members:
+        - name: John
+          role: frontend engineer
+          responsibilities:
+            - UI/UX design
+            - Component development
