@@ -20,3 +20,7 @@ project:
           responsibilities:
             - UI/UX design
             - Component development
+        - name: Bob
+          role: devops engineer
+          responsibilities:
+            - CI/CD development
