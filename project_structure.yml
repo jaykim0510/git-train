@@ -11,6 +11,10 @@ project:
           - API development
           - Database management
       members:
+        - name: Charlie
+          role: product manager
+          responsibilities:
+            - Product development
         - name: John
           role: frontend engineer
           responsibilities:
