@@ -18,9 +18,12 @@ project:
         - name: John
           role: frontend engineer
           responsibilities:
-            - UI/UX design
             - Component development
         - name: Bob
           role: devops engineer
           responsibilities:
             - CI/CD development
+        - name: Mike
+          role: UI designer
+          responsibilities:
+            - UI/UX design
